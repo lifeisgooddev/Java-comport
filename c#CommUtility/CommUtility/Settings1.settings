@@ -1,0 +1,132 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CommUtility" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Button1Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button1</Value>
+    </Setting>
+    <Setting Name="Button2Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button2</Value>
+    </Setting>
+    <Setting Name="Button3Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button3</Value>
+    </Setting>
+    <Setting Name="Button4Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button4</Value>
+    </Setting>
+    <Setting Name="Button5Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button5</Value>
+    </Setting>
+    <Setting Name="Button6Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button6</Value>
+    </Setting>
+    <Setting Name="Button7Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button7</Value>
+    </Setting>
+    <Setting Name="Button8Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button8</Value>
+    </Setting>
+    <Setting Name="Button9Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button9</Value>
+    </Setting>
+    <Setting Name="Button10Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button10</Value>
+    </Setting>
+    <Setting Name="Button11Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button11</Value>
+    </Setting>
+    <Setting Name="Button12Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button12</Value>
+    </Setting>
+    <Setting Name="Button13Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Button13</Value>
+    </Setting>
+    <Setting Name="Command1Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command2Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command3Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command4Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command5Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command6Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command7Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command8Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command9Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command10Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command11Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command12Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Command13Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BaudRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="StartDelimiter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">STX</Value>
+    </Setting>
+    <Setting Name="EndDelimiter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ETX</Value>
+    </Setting>
+    <Setting Name="DelimiterSelect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BaudSelect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StxEtxDelimSel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OtherDelimSel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NoneDelimSel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DataBitsSel8" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DataBitsSel7" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ParitySelNone" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ParitySelOdd" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ParitySelEven" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StopBitsOne" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StopBitsTwo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SliderValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
